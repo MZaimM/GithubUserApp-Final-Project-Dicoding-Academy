@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="data_not_found">Data Tidak Ditemukan!</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="view_profile">Lihat Profil</string>
+    <string name="github_url">https://github.com/MZaimM</string>
+    <string name="name_detail">Nama</string>
+    <string name="company_detail">Perusahaan</string>
+    <string name="location_detail">Lokasi</string>
+    <string name="follower">Pengikut</string>
+    <string name="_0">0</string>
+    <string name="following">Mengikuti</string>
+    <string name="repository">Repositori</string>
+    <string name="no_follower">Tidak Ada pengikut!</string>
+    <string name="icon_warning">icon_peringatan</string>
+    <string name="no_following">Tidak Mengikuti!</string>
+    <string name="search">Pencarian</string>
+    <string name="setting_language">Pengaturan Bahasa</string>
+    <string name="enter_username">Masukkan Nama Pengguna</string>
+</resources>

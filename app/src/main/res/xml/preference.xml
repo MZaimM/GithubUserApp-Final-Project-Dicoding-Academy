@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+app:iconSpaceReserved="false">
+
+<SwitchPreference
+    android:key="@string/reminder"
+    android:icon="@drawable/baseline_notifications_black_18dp"
+    android:title="Reminder at 09.00" />
+
+<Preference
+    android:key="@string/setting_language"
+    android:icon="@drawable/baseline_translate_black_36"
+    android:title="Select Language"
+    android:summary="English"/>
+
+</PreferenceScreen>

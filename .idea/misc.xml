@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="com.example.githubuserapp.User CREATOR" />
+      <entry_point TYPE="field" FQNAME="com.example.githubuserapp.UserAdapter.ViewHolder tvRepository" />
+    </entry_points>
+    <pattern value="com.example.githubuserapp.ExampleUnitTest" method="addition_isCorrect" />
+    <pattern value="com.example.githubuserapp.DetailProfile" />
+    <pattern value="com.example.githubuserapp.ExampleInstrumentedTest" />
+    <pattern value="com.example.githubuserapp.ExampleUnitTest" />
+    <pattern value="com.example.githubuserapp.MainActivity" />
+    <pattern value="com.example.githubuserapp.ExampleInstrumentedTest" method="useAppContext" />
+    <pattern value="com.example.githubuserapp.User" />
+    <pattern value="com.example.githubuserapp.UserAdapter" />
+    <pattern value="com.example.githubuserapp.UserAdapter.ViewHolder" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

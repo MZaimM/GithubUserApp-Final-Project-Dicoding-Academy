@@ -1,0 +1,30 @@
+<resources>
+    <!-- Other string resources-->
+    <string name="app_name">GitHub User</string>
+    <string name="data_not_found">Data Not Found!</string>
+    <string name="username">username</string>
+    <string name="view_profile">View Profile</string>
+    <string name="github_url">https://github.com/MZaimM</string>
+    <string name="name_detail">Name</string>
+    <string name="company_detail">Company</string>
+    <string name="location_detail">Location</string>
+    <string name="follower">Follower</string>
+    <string name="_0">0</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="no_follower">No Follower!</string>
+    <string name="icon_warning">icon_warning</string>
+    <string name="no_following">No Following!</string>
+    <string name="search">Search</string>
+    <string name="setting_language">Setting Language</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="reminder">Reminder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
+
+
